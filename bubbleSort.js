@@ -3,8 +3,8 @@
  * @Email       = wahab.kazmi2000@gmail.com 
  * @Topic       = Bubble Sort
  * @Subject     = Algorithms
- * @Description = Bubble sort is most ask interview question for sorting an array. It's Big O is 0(n2) as 
-                  it is using 2 loops and yes it's slower than other sorting algorithms. I've used some extra 
+ * @BigO        = O(n2)
+ * @Description = Bubble sort is most ask interview question for sorting an array.It's slower than other sorting algorithms. I've used some extra 
                   variables just because to clear readablity. It takes a number and iterate through all the 
                   items in array and check if this is the biggest and takes it to the last as it's value via
                   swapping.
